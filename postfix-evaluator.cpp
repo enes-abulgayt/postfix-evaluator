@@ -1,7 +1,7 @@
 #include<iostream>
 #include <cstdlib>
 using namespace std;
-int stack[1];
+int stack[10];
 int top = 0;
 int sizeofstack = sizeof(stack)/sizeof(stack[0]);
 
